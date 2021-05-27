@@ -1,11 +1,5 @@
-# Add head 1
+# Removed all headers
 
-## Add head two
 
-### headers 3
-
-#### header 4
-
-##### header 5
-
-regular text is here just to see it. ok.
+regular text is here just to see it.
+Adding second line of regular text.
